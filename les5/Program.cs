@@ -3,4 +3,6 @@
 string name = Console.ReadLine();
 
 Console.WriteLine($"hi {name}");
+
 string str;
+Console.WriteLine();
